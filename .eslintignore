@@ -1,0 +1,6 @@
+node_modules/
+dist/
+public/
+
+.eslintrc.cjs
+prettier.config.cjs
